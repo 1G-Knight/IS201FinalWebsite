@@ -1,0 +1,66 @@
+/*Grant Knight 4/15/22*/
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    font-family: fantasy;
+    font-size: 25px;
+    color:white
+}
+
+.mainbody{
+    background-image: url(../IMAGES/tk3.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+}
+
+
+a:link{
+    color:skyblue;
+}
+
+a:hover{
+    color:skyblue;
+}
+
+a:visited{
+    color:skyblue;
+}
+
+a:active{
+    color: skyblue;
+}
+
+.pad{
+    padding-left: 250px;
+    padding-bottom: 25px;
+}
+
+.tabcolor{
+    color:white
+}
+
+.pad2{
+    padding-left: 20%;
+}
+
+.ft{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.width{
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+    width: 100%;
+}
+

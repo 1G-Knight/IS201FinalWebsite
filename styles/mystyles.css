@@ -1,0 +1,70 @@
+/*Grant Knight 4/15/22*/
+a:link{
+    color:white;
+}
+
+a:hover{
+    color:white;
+}
+
+a:visited{
+    color:white;
+}
+
+a:active{
+    color: white;
+}
+
+.words1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+.words2{
+    font-family: cursive;
+    color:lightskyblue
+}
+
+.words3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+}
+
+.words4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+.text1{
+    font-family: cursive;
+}
+
+.text2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../IMAGES/bball.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.words7{
+    color:skyblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.tabs{
+    padding-left: 15%;
+}
+
+.pap{
+    font-family: cursive;
+    color:lavender
+}
